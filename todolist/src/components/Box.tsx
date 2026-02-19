@@ -7,7 +7,7 @@ function Box() {
             TODO
           </h1>
         </div>
-        <div className="relative mt-2 mb-3 bg-white md:mt-10">
+        <div className="relative mt-2 mb-3 rounded-md bg-white md:mt-10">
           <input
             className="font-josefin h-15 w-full rounded-md border border-stone-200 px-5 text-2xl text-stone-600"
             type="text"
